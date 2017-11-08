@@ -4,7 +4,7 @@ This is the Coursera curse project for the Getting and Cleaning data.
 This repository contains the following files:
  - `README.md` : This file, which provides an overview of this reposet.
  -`tidydata.txt` : It is a dataset processed by run_analysis.R.
- -`CodeBook.md` : Code book which describes the contents of the tidy data.
+ -`codebook.md` : Code book which describes the contents of the tidy data.
  -`run_analysis.R`: This is the script that was used to create tidy dataset.
  
  ## Process of making `run_analysis.R`
