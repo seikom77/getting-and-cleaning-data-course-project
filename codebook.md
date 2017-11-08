@@ -38,12 +38,12 @@ Activity label, 6 possible values;
 ・a 79 feature vector with time and frequency domains and signal variables (numeric)
 |Name|Time domain|Frequency domain|
 |Body Acceleration|TimeDomain.BodyAcceleration.XYZ|FrequencyDomain.BodyAcceleration.XYZ|
-|Gravity Acceleration|TimeDomain.GravityAcceleration.XYZ| |
+|Gravity Acceleration|TimeDomain.GravityAcceleration.XYZ|
 |Body Acceleration Jerk|TimeDomain.BodyAccelerationJerk.XYZ|FrequencyDomain.BodyAccelerationJerk.XYZ|
 |Body Angular Speed|TimeDomain.BodyAngularSpeed.XYZ|FrequencyDomain.BodyAngularSpeed.XYZ|
-|Body Angular Acceleration|TimeDomain.BodyAngularAcceleration.XYZ| |
+|Body Angular Acceleration|TimeDomain.BodyAngularAcceleration.XYZ|
 |Body Acceleration Magnitude	TimeDomain.BodyAccelerationMagnitude|FrequencyDomain.BodyAccelerationMagnitude|
-|Gravity Acceleration Magnitude|TimeDomain.GravityAccelerationMagnitude| |
+|Gravity Acceleration Magnitude|TimeDomain.GravityAccelerationMagnitude|
 |Body Acceleration Jerk Magnitude|TimeDomain.BodyAccelerationJerkMagnitude|FrequencyDomain.BodyAccelerationJerkMagnitude|
 |Body Angular Speed Magnitude|TimeDomain.BodyAngularSpeedMagnitude|FrequencyDomain.BodyAngularSpeedMagnitude|
 |Body Angular Acceleration Magnitude|TimeDomain.BodyAngularAccelerationMagnitude|FrequencyDomain.BodyAngularAccelerationMagnitude
