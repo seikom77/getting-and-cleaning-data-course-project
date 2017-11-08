@@ -1,21 +1,16 @@
-# Name: Getting and Cleaning data Course Project
+# Getting and Cleaning data Course Project
 
-One of the most exciting areas in all of data science right now is wearable computing.
-Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. 
-
-The purpose of this project is to collect, work with, and clean a data set. The data collected from the accelerometers from the Samsung Galaxy S smartphone. 
-
----
-# This project include following files
-
-## Readme.md
-##
-##
----
-You should create one R script called run_analysis.R that does the following.
-
-Merges the training and the test sets to create one data set.
-Extracts only the measurements on the mean and standard deviation for each measurement.
-Uses descriptive activity names to name the activities in the data set
-Appropriately labels the data set with descriptive variable names.
-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+This is the Coursera curse project for the Getting and Cleaning data.
+This repository contains the following files:
+ - `README.md` : This file, which provides an overview of this reposet.
+ -`tidydata.txt` : It is a dataset processed by run_analysis.R.
+ -`CodeBook.md` : Code book which describes the contents of the tidy data.
+ -`run_analysis.R`: This is the script that was used to create tidy dataset.
+ 
+ ## Process of making `run_analysis.R`
+  1.Down load files and unzip it.
+  1.Merges the training and the test sets to create one data set.
+  1.Extracts only the measurements on the mean and standard deviation for each measurement.
+  1.Uses descriptive activity names to name the activities in the dataset.
+  1.Appropriately labels the data set with descriptive variables names.
+  1.From the data set in step 4, creates a second independent tidy data set with the average of each variables for each activity and each subject.
