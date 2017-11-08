@@ -9,9 +9,9 @@ This repository contains the following files:
  
  ## Process of making `run_analysis.R`
  
- 1.Down load files and unzip it.
- 1.Merges the training and the test sets to create one data set.
- 1.Extracts only the measurements on the mean and standard deviation for each measurement.
- 1.Uses descriptive activity names to name the activities in the dataset.
- 1.Appropriately labels the data set with descriptive variables names.
- 1.From the data set in step 4, creates a second independent tidy data set with the average of each variables for each activity and each subject.
+ 1. Down load files and unzip it.
+ 1. Merges the training and the test sets to create one data set.
+ 1. Extracts only the measurements on the mean and standard deviation for each measurement.
+ 1. Uses descriptive activity names to name the activities in the dataset.
+ 1. Appropriately labels the data set with descriptive variables names.
+ 1. From the data set in step 4, creates a second independent tidy data set with the average of each variables for each activity and each subject.
