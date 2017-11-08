@@ -2,7 +2,6 @@
 ---
 
 ## Data source
---
 This dataset is derived from the "Human Activity Recogniion Using Sumartphones Data Set". 
 The data is available via link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
@@ -10,7 +9,6 @@ The data is available via link: http://archive.ics.uci.edu/ml/datasets/Human+Act
 
 
 ## Data transformation
---
 The raw datasets are processed with run_analysis.R script to create tidy data set.
 It consists of the following 5 processes.
 ### 1.Merge Training and Test datasets
@@ -21,13 +19,11 @@ It consists of the following 5 processes.
 
 
 ## Tidy data
---
 The tidy_data.text data files is a text file, containing space_separated values.
 
 The first row contains the names of the variables, which are listed in the Variables section below.
 
 ## Variables
---
 ・subject
 Subject identifier, integer, ranges from 1 to 30.
 
