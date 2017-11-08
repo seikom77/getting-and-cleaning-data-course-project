@@ -36,6 +36,7 @@ Activity label, 6 possible values;
   1. LAYING
 
 ・a 79 feature vector with time and frequency domains and signal variables (numeric)
+
 |Name|Time domain|Frequency domain|
 |:-----------|------------:|:------------:|
 |Body Acceleration|TimeDomain.BodyAcceleration.XYZ|FrequencyDomain.BodyAcceleration.XYZ|
