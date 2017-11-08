@@ -8,6 +8,7 @@ This repository contains the following files:
  -`run_analysis.R`: This is the script that was used to create tidy dataset.
  
  ## Process of making `run_analysis.R`
+ 
 1.Down load files and unzip it.
 1.Merges the training and the test sets to create one data set.
 1.Extracts only the measurements on the mean and standard deviation for each measurement.
