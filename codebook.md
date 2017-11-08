@@ -11,11 +11,11 @@ The data is available via link: http://archive.ics.uci.edu/ml/datasets/Human+Act
 ## Data transformation
 The raw datasets are processed with run_analysis.R script to create tidy data set.
 It consists of the following 5 processes.
-      1.Merge Training and Test datasets
-      2.Extract mean and standard deviation variables
-      3.Use descriptive activity names
-      4.Label variables appropriately
-      5.Create a tidy data set
+      1.Merge Training and Test datasets  
+      2.Extract mean and standard deviation variables  
+      3.Use descriptive activity names  
+      4.Label variables appropriately  
+      5.Create a tidy data set  
 
 ## Tidy data
 The tidy_data.text data files is a text file, containing space_separated values.
