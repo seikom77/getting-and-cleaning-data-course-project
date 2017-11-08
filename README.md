@@ -6,6 +6,11 @@ Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advan
 The purpose of this project is to collect, work with, and clean a data set. The data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
 ---
+#This project include following files
+##Readme.md
+##
+##
+---
 You should create one R script called run_analysis.R that does the following.
 
 Merges the training and the test sets to create one data set.
